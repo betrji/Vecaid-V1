@@ -1,8 +1,8 @@
-# Vecaid-Patented: AI-Powered Stock Prediction & Analytics Platform 🚀
+# Vecaid-V1: AI-Powered Stock Prediction & Analytics Platform 🚀
 
 ---
 
-**Vecaid-Patented** is an advanced financial analytics platform that uses machine learning, technical indicators, and natural language sentiment analysis to predict short-term stock price movements with confidence scoring and backtesting capabilities.
+**Vecaid-V1** is an advanced financial analytics platform that uses machine learning, technical indicators, and natural language sentiment analysis to predict short-term stock price movements with confidence scoring and backtesting capabilities.
 
 This project combines quantitative finance, AI modeling, and data visualization to generate actionable insights for traders and researchers interested in financial forecasting.
 
@@ -10,7 +10,7 @@ This project combines quantitative finance, AI modeling, and data visualization 
 
 ### 📋 Overview
 
-Vecaid-Patented analyzes real-world financial data — such as stock prices, volume, sentiment, and option activity — to make next-day stock predictions.  
+Vecaid-V1 analyzes real-world financial data — such as stock prices, volume, sentiment, and option activity — to make next-day stock predictions.  
 It integrates deep learning models, Bayesian optimization, and ensemble techniques for robust performance and interpretable outputs.
 
 ---
